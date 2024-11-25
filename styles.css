@@ -101,3 +101,9 @@ video{
         font-size: 20px
     }
 
+    .items>a{
+        color: yellow;
+        text-decoration: none;
+        font-size: 20px;
+    }
+
